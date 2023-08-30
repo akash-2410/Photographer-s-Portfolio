@@ -180,7 +180,20 @@ h1, h2, h3{
 .portfolio-grid > div:hover{
     transform: scale(0.9);
 }
-
+.video-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 100%;
+}
+.video {
+    margin-right:20px;
+    width:100%;
+}
+.video video {
+    width: 100%;
+    height: 100%;
+}
 /* contact */
 #contact{
     background-color: rgb(248, 248, 248);
