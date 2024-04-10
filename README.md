@@ -36,7 +36,7 @@ Email: helloakashpandey@gmail.com
 
 Thank you for visiting our Photographer's Portfolio! Enjoy exploring the captivating world of photography. 📷✨
 
-
+**Keywords**: real-time, javascript, js, html, css, portfolio, photographer's portfolio
 
 
 
